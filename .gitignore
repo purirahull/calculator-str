@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# But not these files in the current directory
+!*/
+
+# Only include files (not folders) in this directory
+!*.*
+
+
