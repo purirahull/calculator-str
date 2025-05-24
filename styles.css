@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  margin-top: 20px;
+}
+
+#caculation-section {
+  background: lavender;
+  padding: 50px;
+  box-shadow: 0px 0px 5px -5px;
+}
+
+button {
+  width: 100px;
+  padding: 10px 0px;
+  border: 0px;
+  background: black;
+  color: WHITE;
+  font-weight: bolder;
+}
+
+input {
+  padding: 10px 0px;
+  min-width: 500px;
+}
+
+.hidden {
+  display: hidden;
+}
